@@ -7,4 +7,4 @@ Inconsolata
 - Arch `ttf-inconsolata`
 
 Ubuntu 
-- Debian/Ubuntu/Arch `ttf-ubuntu-fonts-family
+- Debian/Ubuntu/Arch `ttf-ubuntu-fonts-family`
