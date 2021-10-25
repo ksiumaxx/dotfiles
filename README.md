@@ -1,10 +1,5 @@
 # My Dotfiles
 > Use at your own risk.
 
-## Fonts I usually use
-Inconsolata 
-- Debian/Ubuntu `fonts-inconsolata`
-- Arch `ttf-inconsolata`
+## Setup on Acer Extensa 5220
 
-Ubuntu 
-- Debian/Ubuntu/Arch `ttf-ubuntu-fonts-family`
